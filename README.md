@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working  ... Leetcode, HackerRank, and System Design problems
 - 🌱 I’m currently learning ... System Design, Distributed Systems
 - 👯 I’m looking to collaborate on ... (currently little busy)
-- 🤔 I'm looking for new opportunities as ...  Software Engineer 
-- 💬 Ask me about ... Tech interview prep, data structures and algorithms, networking, wireless, communication skills stuff
-- 📫 How to reach me: ... Linkedin
-- ⚡ Fun fact: ... I love food but I'm still lean
+- 🤔 I'm looking for new opportunities as ...  Software Engineer - Backend, General, Wireless, Networks, Infrastructure, Engineering productivity 
+- 💬 Ask me about ... Tech interview prep, data structures and algorithms, networking, wireless communication
+- 📫 How to reach me: ... Linkedin https://www.linkedin.com/in/shahid-mohammed-sb/
+- ⚡ Life fact ... Don't just spend/pass life but make it purposeful
 
