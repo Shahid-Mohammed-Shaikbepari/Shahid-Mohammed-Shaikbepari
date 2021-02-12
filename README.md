@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... System Design, Distributed Systems
 - 👯 I’m looking to collaborate on ... (currently little busy)
 - 🤔 I'm looking for new opportunities as ...  Software Engineer - Backend, General, Wireless, Networks, Infrastructure, Engineering productivity 
-- 💬 Ask me about ... Tech interview prep, data structures and algorithms, networking, wireless communication
+- 💬 Ask me about ... Tech interview prep, data structures and algorithms, Software Engineer, Networking, Wireless Communication
 - 📫 How to reach me: ... Linkedin https://www.linkedin.com/in/shahid-mohammed-sb/
 - ⚡ Life fact ... Don't just spend/pass life but make it purposeful
 
